@@ -4,10 +4,9 @@
 
 I build modern web applications with a focus on clean architecture, maintainable code, and great user experiences.
 
-- 🔭 Currently building web applications and business solutions
 - 💻 Focused on Laravel, React, Inertia.js, MySQL, and Tailwind CSS
 - 🌱 Always learning and exploring better ways to build software
-- 🤝 Open to collaboration and interesting projects
+- 🤝 Open to collaboration and new opportunities
 
 ---
 
@@ -21,28 +20,6 @@ I build modern web applications with a focus on clean architecture, maintainable
 **Frontend:** React, Inertia.js, Tailwind CSS, JavaScript  
 **Database:** MySQL  
 **Tools:** Git, GitHub, Vite
-
----
-
-## 🚀 Featured Projects
-
-### 01. Student Registration System
-A web-based new student admission system with registration, document uploads, verification, and selection status management.
-
-- **Stack:** Laravel, Livewire, MySQL, Bootstrap
-- **Repository:** [View Project](https://github.com/YOUR_USERNAME/YOUR_PPDB_REPO)
-
-### 02. WhatsApp Business CRM
-A WhatsApp Business management platform concept featuring contact management, conversations, message templates, and broadcast messaging using the Meta Cloud API.
-
-- **Stack:** Laravel, React, Inertia.js, MySQL, Tailwind CSS
-- **Repository:** [View Project](https://github.com/YOUR_USERNAME/YOUR_CRM_REPO)
-
-### 03. Web Application Projects
-Building practical web applications with a focus on usability, maintainability, and efficient business workflows.
-
-- **Stack:** Laravel, React, MySQL
-- **Explore:** [View All Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
 
@@ -62,13 +39,13 @@ Building practical web applications with a focus on usability, maintainability, 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="[ttps://github.com/Sajidsabila](https://github.com/Sajidsabila)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in//muh-esa-susilo-sajid-sabila/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sajid.sabila@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
